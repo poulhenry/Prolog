@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import sys
 
 global pergunta
@@ -35,3 +37,5 @@ if pergunta in lista:
     print("Sim")
 else:
     print("Não")
+
+    
